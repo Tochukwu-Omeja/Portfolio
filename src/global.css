@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-text: Epilogue;
+
+  /* font sizes */
+  --subtitle-size: 20px;
+  --body-text-size: 17px;
+  --h2-size: 32px;
+  --h3-size: 27px;
+  --h1-size: 68px;
+
+  /* Colors */
+  --white: #fff;
+  --black: #2d2d2d;
+  --color-whitesmoke: #f3f3f3;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-123xl: 142px;
+  --gap-xs: 12px;
+  --gap-23xl: 42px;
+  --gap-49xl: 68px;
+  --gap-base: 16px;
+  --gap-2xs: 11px;
+  --gap-7xs: 6px;
+  --gap-5xs: 8px;
+  --gap-29xl: 48px;
+
+  /* Paddings */
+  --padding-23xl: 42px;
+  --padding-5xl: 24px;
+  --padding-45xl: 64px;
+  --padding-base: 16px;
+}
